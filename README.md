@@ -1,6 +1,9 @@
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
 <br/>
+
 ### <div align="center">Sou Maurício Rodrigues conhecido como Maue, Desenvolvedor PHP
 
 #OpenToWork 👨‍💻  </div>  
