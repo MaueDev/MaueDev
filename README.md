@@ -91,7 +91,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 - 🔭 Atualmente estou trabalhando na [Expert Sistemas](https://expertsistemas.com/)  
   
 
-- 🌱 Atualmente estou aprendendo ReactJS e Node.JS  
+- 🌱 Atualmente estou aprendendo Mangento e Laravel  
   
 
 - ⚡ Curiosidade: Trabalho na parte de Helpdesk, estou a procura de um Jobs como Desenvolvedor PHP Junior  
