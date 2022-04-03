@@ -42,16 +42,18 @@ Sunday       8 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     10 mins             ███████████████████░░░░░░   76.69% 
+C#                       3 mins              █████░░░░░░░░░░░░░░░░░░░░   23.31%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          13 mins             █████████████████████████   100.0% 
+PrimeiroProjetoDio       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -68,7 +70,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2022 18:49:07 UTC
+ Last Updated on 03/04/2022 18:49:31 UTC
 <!--END_SECTION:waka-->
 
 <br/>
