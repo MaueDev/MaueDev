@@ -84,13 +84,13 @@ TypeScript               1 repo              █░░░░░░░░░░�
 #OpenToWork 👨‍💻  </div>  
   
 
-- 🔭 Atualmente estou trabalhando na [Expert Sistemas](https://expertsistemas.com/)  
+- 🔭 Atualmente estou trabalhando na UPPER Softwares](https://www.uppersoftwares.com.br/)  
   
 
-- 🌱 Atualmente estou aprendendo Magento e Laravel  
+- 🌱 Atualmente estou aprendendo VUE.JS, TypeScript e C# 
   
 
-- ⚡ Curiosidade: Trabalho na parte de Helpdesk, estou a procura de um Jobs como Desenvolvedor PHP Junior  
+- ⚡ Curiosidade: Minha linguagem Mãe é PHP porém trabalho com Node  
   
 
 <br/>  
