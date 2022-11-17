@@ -1,100 +1,14 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2053%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 319 Contributions in the Year 2022
- > 
-> 📦 130.6 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-🌆 Daytime    165 commits    ████████░░░░░░░░░░░░░░░░░   34.16% 
-🌃 Evening    197 commits    ██████████░░░░░░░░░░░░░░░   40.79% 
-🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       143 commits    ███████░░░░░░░░░░░░░░░░░░   29.61% 
-Tuesday      61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Wednesday    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Friday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Saturday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Sunday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.18%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-PHP                      18 hrs 5 mins       ███████████░░░░░░░░░░░░░░   46.75% 
-JavaScript               7 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-Twig                     5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-TypeScript               2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-HTML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
-
-🔥 Editors: 
-VS Code                  38 hrs 42 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-saude_vla                30 hrs 27 mins      ███████████████████░░░░░░   78.7% 
-Telemedicine-Application-7 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-src                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
-projeto-glass-html5      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-Linux                    38 hrs 42 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ██████████████░░░░░░░░░░░   56.0% 
-PHP                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
-```
-
-
-
- Last Updated on 16/11/2022 18:49:11 UTC
 <!--END_SECTION:waka-->
 
 <br/>
 
-### <div align="center">Sou Maurício Rodrigues conhecido como Maue, Desenvolvedor PHP
+### <div align="center">Sou Maurício Rodrigues conhecido como Maue, Desenvolvedor FullStack PHP
 
-#OpenToWork 👨‍💻  </div>  
+#HomeOfficeLife 👨‍💻  </div>  
   
 
-- 🔭 Atualmente estou trabalhando na UPPER Softwares](https://www.uppersoftwares.com.br/)  
-  
-
-- 🌱 Atualmente estou aprendendo VUE.JS, TypeScript e C# 
-  
-
-- ⚡ Curiosidade: Minha linguagem Mãe é PHP porém trabalho com Node  
+- 🔭 Atualmente estou trabalhando na Troupe Tecnologia
   
 
 <br/>  
