@@ -84,8 +84,6 @@ HCL                      1 repo              █░░░░░░░░░░�
 #HomeOfficeLife 👨‍💻  </div>  
   
 
-- 🔭 Atualmente estou trabalhando na Troupe Tecnologia
-  
 
 <br/>  
 
