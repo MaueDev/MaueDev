@@ -1,14 +1,5 @@
-<br/>
-
-### <div align="center">Sou Maurício Rodrigues conhecido como Maue, Desenvolvedor FullStack PHP
-
-#HomeOfficeLife 👨‍💻  </div>  
+### <div align="center">Sou Maurício Rodrigues conhecido como Maue, Desenvolvedor FullStack PHP</div>  
   
-
-
-<br/>  
-
-
 ## Minhas Skill  
 <table><tr><td valign="top" width="33%">
 
