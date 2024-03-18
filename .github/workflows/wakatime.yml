@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-      
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -17,6 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: pt_BR
           SHOW_LINES_OF_CODE: TRUE
           SHOW_PROFILE_VIEWS: TRUE
           SHOW_COMMIT: TRUE
@@ -25,4 +26,3 @@ jobs:
           SHOW_PROJECTS: TRUE
           SHOW_EDITORS: TRUE
           SHOW_LOC_CHART: TRUE
-          LOCALE: pt_BR
