@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C700%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -10,7 +10,7 @@
 
 > 📦 132.9 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,20 +45,20 @@ Sunday                   68 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               5 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-Vue.js                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Git                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JavaScript               2 hrs 57 mins       ███████████████░░░░░░░░░░   60.57 % 
+Vue.js                   1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Git                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cohros-kernel            10 hrs 43 mins      █████████████████████████   100.00 % 
+cohros-kernel            4 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +78,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 19:27:16 UTC
+ Last Updated on 25/04/2024 18:35:07 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
