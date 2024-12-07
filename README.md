@@ -18,6 +18,45 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                353 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌆 Daytime                493 commits         ████████░░░░░░░░░░░░░░░░░   32.26 % 
+🌃 Evening                656 commits         ███████████░░░░░░░░░░░░░░   42.93 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   506 commits         ████████░░░░░░░░░░░░░░░░░   33.12 % 
+Tuesday                  241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Friday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Sunday                   68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -35,7 +74,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2024 18:51:05 UTC
+ Last Updated on 07/12/2024 18:53:07 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
