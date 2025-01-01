@@ -1,5 +1,7 @@
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C735%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
@@ -7,6 +9,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 249.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,7 +83,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:49:40 UTC
+ Last Updated on 01/01/2025 18:50:46 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
