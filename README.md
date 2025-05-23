@@ -10,8 +10,6 @@
 
 > 📦 350.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -45,19 +43,16 @@ Sunday                   93 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   15 mins             ██████████████████░░░░░░░   70.74 % 
-PHP                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-autenticacao-paceone     16 mins             ███████████████████░░░░░░   75.84 % 
-backend - PaceOne        5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +72,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 19:34:15 UTC
+ Last Updated on 23/05/2025 18:47:36 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
