@@ -10,8 +10,6 @@
 
 > 📦 353.4 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -74,7 +72,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 18:54:44 UTC
+ Last Updated on 28/07/2025 18:56:20 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
