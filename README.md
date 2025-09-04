@@ -43,20 +43,16 @@ Sunday                   93 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   1 hr 16 mins        ██████████████████████░░░   87.37 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-enderaid                 1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -76,7 +72,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2025 19:37:48 UTC
+ Last Updated on 04/09/2025 18:45:34 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
