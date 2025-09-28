@@ -1,5 +1,7 @@
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
@@ -16,6 +18,45 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                363 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+🌆 Daytime                542 commits         ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌃 Evening                715 commits         ███████████░░░░░░░░░░░░░░   43.20 % 
+🌙 Night                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   514 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Tuesday                  266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Friday                   236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Saturday                 118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    23 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  23 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          23 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  23 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -33,7 +74,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:42:26 UTC
+ Last Updated on 28/09/2025 18:44:15 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
