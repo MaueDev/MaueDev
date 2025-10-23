@@ -1,6 +1,6 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -45,16 +45,17 @@ Sunday                   93 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    47 mins             █████████████████████████   100.00 % 
+Other                    51 mins             ████████████████████████░   95.96 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          47 mins             █████████████████████████   100.00 % 
+Unknown Project          53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -74,7 +75,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2025 19:42:41 UTC
+ Last Updated on 23/10/2025 18:48:44 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
