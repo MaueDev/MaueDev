@@ -1,14 +1,12 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2051%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.9 kB Used in GitHub's Storage 
+> 📦 355.0 kB Used in GitHub's Storage 
  > 
 > 🏆 88 Contributions in the Year 2025
  > 
@@ -18,45 +16,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-🌆 Daytime                539 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
-🌃 Evening                712 commits         ███████████░░░░░░░░░░░░░░   43.18 % 
-🌙 Night                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   514 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Tuesday                  266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Friday                   236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -74,7 +33,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 19:34:15 UTC
+ Last Updated on 03/11/2025 18:46:26 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
