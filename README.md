@@ -57,14 +57,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in PHP** 
-
 ```text
-PHP                      14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+
 ```
 
 
@@ -74,7 +68,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 20:41:10 UTC
+ Last Updated on 14/02/2026 20:41:33 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
