@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C906%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -57,14 +57,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in PHP** 
-
 ```text
-PHP                      14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+
 ```
 
 
@@ -74,7 +68,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 01:40:48 UTC
+ Last Updated on 15/02/2026 01:41:10 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
