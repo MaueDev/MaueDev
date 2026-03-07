@@ -4,7 +4,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -21,21 +21,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                367 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌆 Daytime                549 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌃 Evening                740 commits         ███████████░░░░░░░░░░░░░░   43.33 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   515 commits         ████████░░░░░░░░░░░░░░░░░   30.15 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Friday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Sunday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
@@ -57,8 +57,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in PHP** 
 
+```text
+PHP                      14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Vue                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -68,7 +74,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 03:08:52 UTC
+ Last Updated on 07/03/2026 03:10:21 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
