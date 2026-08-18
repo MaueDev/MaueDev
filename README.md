@@ -1,8 +1,8 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,46 +47,46 @@ Sunday                   106 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 17 mins       ██████████████████░░░░░░░   70.73 % 
-YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Vue                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JavaScript               8 hrs 39 mins       ███████████████████░░░░░░   77.18 % 
+YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Vue                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Automacao                8 hrs 56 mins       ███████████████████░░░░░░   76.30 % 
-newFrontEnd              1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-src                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-automacao-corridas       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Automacao                9 hrs 30 mins       █████████████████████░░░░   84.67 % 
+newFrontEnd              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+src                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+automacao-corridas       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+workflows                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 25 mins (37.67%)
+⏱ AI Coding Time: 3 hrs 6 mins (27.74%)
 
-✍️ 6,527 lines written by AI, 2,407 lines written by hand (73.06% AI-written)
+✍️ 3,952 lines written by AI, 2,535 lines written by hand (60.92% AI-written)
 
-🔤 1,377,127 Input Tokens, 4,477 Output Tokens
+🔤 905,333 Input Tokens, 2,430 Output Tokens
 
-💵 $4.20 Estimated AI Cost This Week
+💵 $2.75 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 52 AI Prompts
+🧠 6 AI Sessions, 38 AI Prompts
 
-Github-Copilot           6,527 lines         █████████████████████████   100.00 % 
+Github-Copilot           3,952 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.06% of written lines came from AI
-📚 Verbose Prompter — average 8,979 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 34.21% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.92% of written lines came from AI
+📚 Verbose Prompter — average 2,428 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 47.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 03:02:55 UTC
+ Last Updated on 18/08/2026 03:04:33 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
