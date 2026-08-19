@@ -1,6 +1,6 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%206%20mins-blue?style=flat)
 
@@ -47,46 +47,46 @@ Sunday                   106 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 39 mins       ███████████████████░░░░░░   77.18 % 
-YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Vue                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               8 hrs 47 mins       █████████████████████░░░░   85.27 % 
+PHP                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Vue                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Automacao                9 hrs 30 mins       █████████████████████░░░░   84.67 % 
-newFrontEnd              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-src                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-automacao-corridas       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-workflows                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Automacao                9 hrs 26 mins       ███████████████████████░░   91.58 % 
+newFrontEnd              41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+src                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+lib                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+scrapers                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (27.74%)
+⏱ AI Coding Time: 1 hr 30 mins (14.58%)
 
-✍️ 3,952 lines written by AI, 2,535 lines written by hand (60.92% AI-written)
+✍️ 1,348 lines written by AI, 2,603 lines written by hand (34.12% AI-written)
 
-🔤 905,333 Input Tokens, 2,430 Output Tokens
+🔤 457,105 Input Tokens, 1,289 Output Tokens
 
-💵 $2.75 Estimated AI Cost This Week
+💵 $1.39 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 38 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-Github-Copilot           3,952 lines         █████████████████████████   100.00 % 
+Github-Copilot           1,350 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.92% of written lines came from AI
-📚 Verbose Prompter — average 2,428 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 47.73% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.12% of written lines came from AI
+📄 Detailed Prompter — average 1,299 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 73.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 03:01:13 UTC
+ Last Updated on 19/08/2026 03:03:07 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
