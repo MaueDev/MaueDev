@@ -20,6 +20,70 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                388 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌆 Daytime                562 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+🌃 Evening                765 commits         ███████████░░░░░░░░░░░░░░   43.17 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   523 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Thursday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Friday                   256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Saturday                 133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Sunday                   106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JavaScript               7 hrs 17 mins       ██████████████████████░░░   87.97 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+PHP                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Vue                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 17 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Automacao                7 hrs 48 mins       ████████████████████████░   94.14 % 
+newFrontEnd              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+
+💻 Operating System: 
+Windows                  8 hrs 17 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 mins (3.42%)
+
+✍️ 0 lines written by AI, 2,390 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -37,7 +101,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 03:03:27 UTC
+ Last Updated on 20/08/2026 03:05:23 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
