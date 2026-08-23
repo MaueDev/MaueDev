@@ -47,29 +47,29 @@ Sunday                   106 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ██████████████████████░░░   89.16 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript               4 hrs 46 mins       ██████████████████████░░░   88.13 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Automacao                5 hrs 43 mins       ████████████████████████░   96.36 % 
-newFrontEnd              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Automacao                5 hrs 12 mins       ████████████████████████░   96.01 % 
+newFrontEnd              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Windows                  5 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (4.77%)
+⏱ AI Coding Time: 16 mins (5.23%)
 
-✍️ 0 lines written by AI, 2,266 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,219 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -101,7 +101,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 03:01:36 UTC
+ Last Updated on 23/08/2026 03:03:27 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
