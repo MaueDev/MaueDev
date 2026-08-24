@@ -47,39 +47,38 @@ Sunday                   106 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 46 mins       ██████████████████████░░░   88.13 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript               1 hr 49 mins        ██████████████████████░░░   88.00 % 
+PHP                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Automacao                5 hrs 12 mins       ████████████████████████░   96.01 % 
-newFrontEnd              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Automacao                1 hr 51 mins        ██████████████████████░░░   89.56 % 
+newFrontEnd              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 💻 Operating System: 
-Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (5.23%)
+⏱ AI Coding Time: 5 mins (4.67%)
 
-✍️ 0 lines written by AI, 2,219 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 252 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
+📝 Concise Prompter — average 137 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -101,7 +100,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 03:01:44 UTC
+ Last Updated on 24/08/2026 03:03:33 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
