@@ -1,8 +1,8 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,40 +47,45 @@ Sunday                   102 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 49 mins        ██████████████████████░░░   88.00 % 
-PHP                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript               1 hr 1 min          █████████████░░░░░░░░░░░░   51.86 % 
+PHP                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Vue                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Automacao                1 hr 51 mins        ██████████████████████░░░   89.56 % 
-newFrontEnd              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Automacao                1 hr 2 mins         █████████████░░░░░░░░░░░░   52.45 % 
+newFrontEnd              40 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
+repo                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+views                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (4.67%)
+⏱ AI Coding Time: 24 mins (20.85%)
 
-✍️ 0 lines written by AI, 252 lines written by hand (0.0% AI-written)
+✍️ 127 lines written by AI, 126 lines written by hand (50.2% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
+
+Github-Copilot           127 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
+⚖️ Balanced with AI — 50.2% of written lines came from AI
+📝 Concise Prompter — average 335 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 54.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 03:01:33 UTC
+ Last Updated on 25/08/2026 03:03:16 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
