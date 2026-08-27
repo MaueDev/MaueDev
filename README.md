@@ -20,6 +20,75 @@
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌆 Daytime                560 commits         ████████░░░░░░░░░░░░░░░░░   32.30 % 
+🌃 Evening                743 commits         ███████████░░░░░░░░░░░░░░   42.85 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   525 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Wednesday                268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Thursday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Sunday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+PHP                      50 mins             ███████████░░░░░░░░░░░░░░   44.61 % 
+JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Vue                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+
+🔥 Editors: 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+newFrontEnd              1 hr 19 mins        █████████████████░░░░░░░░   69.80 % 
+Automacao                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+repo                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+views                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+router                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 51 mins (45.49%)
+
+✍️ 127 lines written by AI, 19 lines written by hand (86.99% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 8 AI Prompts
+
+Github-Copilot           127 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 86.99% of written lines came from AI
+📝 Concise Prompter — average 262 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 38.94% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -37,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 03:03:23 UTC
+ Last Updated on 27/08/2026 03:05:02 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
