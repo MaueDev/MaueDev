@@ -1,8 +1,8 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,22 +47,44 @@ Sunday                   102 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      16 mins             █████████████████░░░░░░░░   66.63 % 
+Vue                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+newFrontEnd              24 mins             █████████████████████████   99.37 % 
+views                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+router                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 mins (96.77%)
+
+✍️ 144 lines written by AI, 16 lines written by hand (90.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Github-Copilot           144 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.0% of written lines came from AI
+📄 Detailed Prompter — average 777 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 10.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:02:40 UTC
+ Last Updated on 04/09/2026 03:04:11 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
