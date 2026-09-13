@@ -47,45 +47,43 @@ Sunday                   105 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   38.38 % 
-JSON                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-PHP                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Git                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Vue                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+PHP                      7 mins              █████████░░░░░░░░░░░░░░░░   37.75 % 
+Git                      6 mins              ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Vue                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Automacao                1 hr 50 mins        ████████████████░░░░░░░░░   64.90 % 
-newFrontEnd              59 mins             █████████░░░░░░░░░░░░░░░░   34.91 % 
-components               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+newFrontEnd              20 mins             █████████████████████████   100.00 % 
 frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (24.75%)
+⏱ AI Coding Time: 3 mins (15.93%)
 
-✍️ 1,726 lines written by AI, 1,568 lines written by hand (52.4% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 23,176 Input Tokens, 927 Output Tokens
 
 💵 $0.08 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Github-Copilot           1,726 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.4% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 57.34% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 44 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +103,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 01:54:42 UTC
+ Last Updated on 13/09/2026 21:01:19 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
