@@ -1,8 +1,8 @@
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,31 +47,31 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-PHP                      1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Bash                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+JavaScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+PHP                      1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Bash                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-Copilot CLI              3 hrs 42 mins       ███████████████████░░░░░░   76.69 % 
-VS Code                  1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Copilot CLI              3 hrs 47 mins       ███████████████████░░░░░░   76.78 % 
+VS Code                  1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
 
 🐱‍💻 Projects: 
-newFrontEnd              1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
-RadarCorridas            1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   38.71 % 
-Automacao                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-projeto                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-mobile-admin             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+newFrontEnd              1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
+RadarCorridas            1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   37.99 % 
+Automacao                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+projeto                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+mobile-admin             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 58 mins (81.94%)
+⏱ AI Coding Time: 4 hrs 3 mins (82.27%)
 
 ✍️ 2,605 lines written by AI, 7 lines written by hand (99.73% AI-written)
 
@@ -79,15 +79,15 @@ Windows                  4 hrs 50 mins       ███████████�
 
 💵 $0.32 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 33 AI Prompts
+🧠 8 AI Sessions, 35 AI Prompts
 
 GPT                      2,616 lines         ███████████████████████░░   93.26 % 
 Sonnet                   189 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 755 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 716 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 03:01:44 UTC
+ Last Updated on 26/10/2026 03:03:16 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
