@@ -47,46 +47,46 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-PHP                      1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Bash                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+PHP                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+JavaScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Bash                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 
 🔥 Editors: 
-Copilot CLI              3 hrs 47 mins       ███████████████████░░░░░░   76.78 % 
-VS Code                  1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Copilot CLI              3 hrs 28 mins       ████████████████████░░░░░   78.73 % 
+VS Code                  56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
 
 🐱‍💻 Projects: 
-newFrontEnd              1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
-RadarCorridas            1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   37.99 % 
-Automacao                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-projeto                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-mobile-admin             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+newFrontEnd              1 hr 54 mins        ███████████░░░░░░░░░░░░░░   43.07 % 
+RadarCorridas            1 hr 52 mins        ███████████░░░░░░░░░░░░░░   42.43 % 
+projeto                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+mobile-admin             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Windows                  4 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (82.27%)
+⏱ AI Coding Time: 3 hrs 39 mins (82.87%)
 
-✍️ 2,605 lines written by AI, 7 lines written by hand (99.73% AI-written)
+✍️ 2,444 lines written by AI, 6 lines written by hand (99.76% AI-written)
 
 🔤 731,430 Input Tokens, 175,947 Output Tokens
 
 💵 $0.32 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 35 AI Prompts
+🧠 7 AI Sessions, 31 AI Prompts
 
-GPT                      2,616 lines         ███████████████████████░░   93.26 % 
-Sonnet                   189 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+GPT                      2,354 lines         ███████████████████████░░   92.57 % 
+Sonnet                   189 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 716 characters per prompt
+🤖 AI-Driven — 99.76% of written lines came from AI
+📄 Detailed Prompter — average 600 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 03:01:29 UTC
+ Last Updated on 27/10/2026 03:03:19 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
