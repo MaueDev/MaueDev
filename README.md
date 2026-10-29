@@ -47,30 +47,29 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     10 mins             █████████████░░░░░░░░░░░░   51.05 % 
-Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Bash                     10 mins             ██████████████░░░░░░░░░░░   54.67 % 
+Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🔥 Editors: 
-Copilot CLI              20 mins             ████████████████████████░   95.31 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Copilot CLI              19 mins             ████████████████████████░   94.98 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🐱‍💻 Projects: 
-projeto                  12 mins             ███████████████░░░░░░░░░░   60.39 % 
-b98e57ff-12eb-4381-8bc6-04 mins              █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-mobile-admin             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+projeto                  12 mins             ████████████████░░░░░░░░░   64.67 % 
+b98e57ff-12eb-4381-8bc6-04 mins              █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (100.0%)
+⏱ AI Coding Time: 20 mins (100.0%)
 
 ✍️ 189 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -78,13 +77,13 @@ Windows                  21 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Sonnet                   189 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
+📝 Concise Prompter — average 112 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -106,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:01:13 UTC
+ Last Updated on 29/10/2026 03:02:56 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
