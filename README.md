@@ -20,74 +20,6 @@
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                395 commits         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-🌆 Daytime                574 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌃 Evening                749 commits         ███████████░░░░░░░░░░░░░░   42.61 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   527 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Tuesday                  284 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Wednesday                268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Thursday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Sunday                   105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Bash                     10 mins             ██████████████░░░░░░░░░░░   54.67 % 
-Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-
-🔥 Editors: 
-Copilot CLI              19 mins             ████████████████████████░   94.98 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-
-🐱‍💻 Projects: 
-projeto                  12 mins             ████████████████░░░░░░░░░   64.67 % 
-b98e57ff-12eb-4381-8bc6-04 mins              █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-
-💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 mins (100.0%)
-
-✍️ 189 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Sonnet                   189 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -105,7 +37,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MaueDev/MaueDev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 03:01:21 UTC
+ Last Updated on 01/11/2026 03:03:07 UTC
 <!--END_SECTION:waka-->
 
 ## Github Stats  
